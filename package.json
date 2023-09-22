@@ -1,0 +1,25 @@
+{
+  "name": "desfiobackendmodulo02sistemabancariob2bifoodt07",
+  "version": "1.0.0",
+  "description": "ApiBancaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloBarros3335/DesfioBackendModulo02SistemaBancarioB2bIfoodT07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloBarros3335/DesfioBackendModulo02SistemaBancarioB2bIfoodT07/issues"
+  },
+  "homepage": "https://github.com/PauloBarros3335/DesfioBackendModulo02SistemaBancarioB2bIfoodT07#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
