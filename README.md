@@ -1,6 +1,6 @@
 ![image](https://github.com/PauloBarros3335/DesafioBackendModulo02SistemaBancarioB2bIfoodT07/assets/130687694/8f2c09ba-47df-42e0-9fac-7fd32a02979a)
 
-# DesafioBackendModulo02SistemaBancarioB2bIfoodT07
+# desafioBackendModulo02SistemaBancarioB2bIfoodT07
 ApiBancaria
 
 ## Projeto do Banco Digital - API
