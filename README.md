@@ -1,4 +1,4 @@
-# DesfioBackendModulo02SistemaBancarioB2bIfoodT07
+# DesafioBackendModulo02SistemaBancarioB2bIfoodT07
 ApiBancaria
 
 ## Projeto do Banco Digital - API
